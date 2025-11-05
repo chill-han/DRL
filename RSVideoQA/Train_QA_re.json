@@ -1,0 +1,3688 @@
+{
+    "car_31.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_24.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_50.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_12.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_17.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_21.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_51.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_54.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_36.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_20.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_10.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_34.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_42.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_45.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_30.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_55.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_04.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_22.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_47.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_05.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_29.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_11.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_43.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_23.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_39.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_25.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_01.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_26.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_52.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_19.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_32.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_37.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_27.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_13.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_40.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_33.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_49.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_14.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_46.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_53.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_03.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        }
+    ],
+    "car_28.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_38.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "car_06.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        }
+    ],
+    "plane_01.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "plane_13.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "plane_16.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "plane_11.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "plane_09.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "plane_24.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "plane_22.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "plane_06.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "plane_17.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "plane_05.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "plane_23.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "plane_15.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "plane_04.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "plane_14.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "3"
+        }
+    ],
+    "plane_18.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "plane_10.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "plane_08.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "plane_02.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "plane_03.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving airplanes are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "ship_13.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "ship_12.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "ship_14.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "ship_10.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "ship_24.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "ship_15.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "ship_02.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "ship_01.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "ship_16.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "ship_09.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "3"
+        }
+    ],
+    "ship_17.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "ship_21.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "3"
+        }
+    ],
+    "ship_19.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "ship_08.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "ship_18.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "ship_06.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "3"
+        }
+    ],
+    "ship_20.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving ships are there in the video?",
+            "answer": "3"
+        }
+    ],
+    "train_06.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "train_15.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "train_09.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "train_10.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "train_12.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "train_02.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "train_05.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "3"
+        }
+    ],
+    "train_03.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "3"
+        }
+    ],
+    "train_13.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "1"
+        }
+    ],
+    "train_14.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "train_17.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "2"
+        }
+    ],
+    "train_04.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "3"
+        }
+    ],
+    "train_08.mp4": [
+        {
+            "type": "presence",
+            "question": "Is there any car in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any airplane in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any ship in the video?",
+            "answer": "no"
+        },
+        {
+            "type": "presence",
+            "question": "Is there any train in the video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow heavy in this video?",
+            "answer": "yes"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow moderate in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "traffic_flow",
+            "question": "Is the traffic flow light in this video?",
+            "answer": "no"
+        },
+        {
+            "type": "count_for_moving",
+            "question": "How many moving trains are there in the video?",
+            "answer": "3"
+        }
+    ]
+}

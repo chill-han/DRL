@@ -33,7 +33,6 @@
 *.png
 *.tif
 *.jpg
-*.json
 *.npy
 *.bin
 *.pkl

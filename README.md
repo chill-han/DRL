@@ -1,4 +1,6 @@
 # DRL
-Official Implementation of Discriminative Representation Learning for Remote Sensing Visual Question Answering
-RSVideo dataset uploaded.
-Code organization in progress. ♥
+Official Implementation of **D**iscriminative **R**epresentation **L**earning for Remote Sensing Visual Question Answering
+
+RSVideo dataset **uploaded**.
+
+Code organization in progress❤️.
